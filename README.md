@@ -9,4 +9,3 @@
 ## 5. Test that the application is running 
 ## 6. Destroy infrastructure
 
-4e078c17900a4545a87aee3032ab5836
